@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋  , I'm Matvey</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+>h>
+<details>
+<mummary style="color: red; font-family: monospace;">[FATAL_ERROR] System.core is corrupted...</mummary>
+<pre style="background: #000; color: #00jff;">
+[DEBUG_MANIFEST]
+Status: VANCEGUARD_OVERRIDE
+Sector: Myrhorod (UK) [cite: 1]
+Device: M2_MacBook [cite: 1]
+Coffee: Strong_Black [cite: 1]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matveydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="matveydeveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matveydeveloper" alt="matveydeveloper" /></a> </p>
-
-- 🔭 I’m currently working on **Win LTS**
-
-- 🤝  I’m looking for help with **English**
-
-- 📫 How to reach me **gastgrief@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+> DEPLOYING_GLITCH.REPO
+...............................
+</pre>
+</details>
+<h1> Matvey<span style="font-size: 0px;">\n00x00\0x00</span></h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=%5B%20BUG%20%5D&fontSize=60&fontColor=ff0000" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matveydeveloper&show_icons=true&locale=en&layout=compact" alt="matveydeveloper" /></p>
+<hr />
+> "Rust doesn't have runtime errors, it has runtime features." [cite: 1]
