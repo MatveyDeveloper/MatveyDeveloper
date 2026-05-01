@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Win LTS**
 
-- 🤝 I’m looking for help with **English**
+- 🤝  I’m looking for help with **English**
 
 - 📫 How to reach me **gastgrief@gmail.com**
 
